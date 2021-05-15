@@ -1,0 +1,46 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Blaster Pistol",
+      "cartoon": true
+    },
+    {
+      "name": "Emna",
+      "occupation": "",
+      "weapon": "",
+      "cartoon": false,
+      "id": 3
+    },
+    {
+      "name": "testtest",
+      "occupation": "test",
+      "weapon": "plz",
+      "cartoon": true,
+      "id": 4
+    },
+    {
+      "name": "testtest",
+      "occupation": "test",
+      "weapon": "plz",
+      "cartoon": true,
+      "id": 5
+    },
+    {
+      "name": "Emna",
+      "occupation": "dev",
+      "weapon": "za",
+      "cartoon": true,
+      "id": 6
+    },
+    {
+      "name": "Emna",
+      "occupation": "dev",
+      "weapon": "za",
+      "cartoon": true,
+      "id": 7
+    }
+  ]
+}
